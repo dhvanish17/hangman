@@ -1,1 +1,3 @@
 # hangman
+
+SIMPLE GAME OF HANGMAN
